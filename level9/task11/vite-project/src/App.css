@@ -1,0 +1,27 @@
+/* src/assets/styles/styles.css */
+
+/* Reset default margin and padding for all elements */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.page-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
