@@ -1,0 +1,276 @@
+[{
+  "_id": {
+    "$oid": "67eebb12468a9ba4183532a9"
+  },
+  "name": "Laptop",
+  "price": 1200,
+  "category": "Electronics",
+  "stock": 10
+},
+{
+  "_id": {
+    "$oid": "67eebb12468a9ba4183532aa"
+  },
+  "name": "Phone",
+  "price": 800,
+  "category": "Electronics",
+  "stock": 15
+},
+{
+  "_id": {
+    "$oid": "67eebb12468a9ba4183532ab"
+  },
+  "name": "Tablet",
+  "price": 500,
+  "category": "Electronics",
+  "stock": 8
+},
+{
+  "_id": {
+    "$oid": "67eebb12468a9ba4183532ac"
+  },
+  "name": "Headphones",
+  "price": 200,
+  "category": "Accessories",
+  "stock": 20
+},
+{
+  "_id": {
+    "$oid": "67eebb12468a9ba4183532ad"
+  },
+  "name": "Keyboard",
+  "price": 100,
+  "category": "Accessories",
+  "stock": 25
+},
+{
+  "_id": {
+    "$oid": "67eebb12468a9ba4183532ae"
+  },
+  "name": "Mouse",
+  "price": 50,
+  "category": "Accessories",
+  "stock": 30
+},
+{
+  "_id": {
+    "$oid": "67eebb12468a9ba4183532af"
+  },
+  "name": "Monitor",
+  "price": 300,
+  "category": "Electronics",
+  "stock": 12
+},
+{
+  "_id": {
+    "$oid": "67eebb12468a9ba4183532b0"
+  },
+  "name": "Smartwatch",
+  "price": 250,
+  "category": "Electronics",
+  "stock": 10
+},
+{
+  "_id": {
+    "$oid": "67eebb12468a9ba4183532b1"
+  },
+  "name": "Charger",
+  "price": 40,
+  "category": "Accessories",
+  "stock": 40
+},
+{
+  "_id": {
+    "$oid": "67eebb12468a9ba4183532b2"
+  },
+  "name": "USB Cable",
+  "price": 20,
+  "category": "Accessories",
+  "stock": 50
+},
+{
+  "_id": {
+    "$oid": "67eebb12468a9ba4183532b3"
+  },
+  "name": "Speaker",
+  "price": 150,
+  "category": "Audio",
+  "stock": 18
+},
+{
+  "_id": {
+    "$oid": "67eebb12468a9ba4183532b4"
+  },
+  "name": "Camera",
+  "price": 900,
+  "category": "Photography",
+  "stock": 5
+},
+{
+  "_id": {
+    "$oid": "67eebb12468a9ba4183532b5"
+  },
+  "name": "Tripod",
+  "price": 120,
+  "category": "Photography",
+  "stock": 15
+},
+{
+  "_id": {
+    "$oid": "67eebb12468a9ba4183532b6"
+  },
+  "name": "Printer",
+  "price": 350,
+  "category": "Office",
+  "stock": 10
+},
+{
+  "_id": {
+    "$oid": "67eebb12468a9ba4183532b7"
+  },
+  "name": "Desk Lamp",
+  "price": 70,
+  "category": "Furniture",
+  "stock": 22
+},
+{
+  "_id": {
+    "$oid": "67eebb12468a9ba4183532b8"
+  },
+  "name": "Chair",
+  "price": 220,
+  "category": "Furniture",
+  "stock": 7
+},
+{
+  "_id": {
+    "$oid": "67eebb12468a9ba4183532b9"
+  },
+  "name": "Backpack",
+  "price": 80,
+  "category": "Bags",
+  "stock": 14
+},
+{
+  "_id": {
+    "$oid": "67eebb12468a9ba4183532ba"
+  },
+  "name": "Notebook",
+  "price": 15,
+  "category": "Stationery",
+  "stock": 100
+},
+{
+  "_id": {
+    "$oid": "67eebb12468a9ba4183532bb"
+  },
+  "name": "Pen",
+  "price": 5,
+  "category": "Stationery",
+  "stock": 200
+},
+{
+  "_id": {
+    "$oid": "67eebb12468a9ba4183532bc"
+  },
+  "name": "Desk",
+  "price": 500,
+  "category": "Furniture",
+  "stock": 5
+},
+{
+  "_id": {
+    "$oid": "67ef7face0688ee95ade04eb"
+  },
+  "name": "iPhone 14",
+  "category": "Mobile",
+  "price": 799
+},
+{
+  "_id": {
+    "$oid": "67ef7face0688ee95ade04ec"
+  },
+  "name": "Samsung Galaxy S23",
+  "category": "Mobile",
+  "price": 749
+},
+{
+  "_id": {
+    "$oid": "67ef7face0688ee95ade04ed"
+  },
+  "name": "OnePlus 11",
+  "category": "Mobile",
+  "price": 699
+},
+{
+  "_id": {
+    "$oid": "67ef7face0688ee95ade04ee"
+  },
+  "name": "MacBook Air",
+  "category": "Laptop",
+  "price": 999
+},
+{
+  "_id": {
+    "$oid": "67ef7face0688ee95ade04ef"
+  },
+  "name": "Dell XPS 15",
+  "category": "Laptop",
+  "price": 1199
+},
+{
+  "_id": {
+    "$oid": "67ef7face0688ee95ade04f0"
+  },
+  "name": "HP Spectre x360",
+  "category": "Laptop",
+  "price": 1099
+},
+{
+  "_id": {
+    "$oid": "67ef7face0688ee95ade04f1"
+  },
+  "name": "Sony WH-1000XM5",
+  "category": "Headphones",
+  "price": 399
+},
+{
+  "_id": {
+    "$oid": "67ef7face0688ee95ade04f2"
+  },
+  "name": "Bose QuietComfort 45",
+  "category": "Headphones",
+  "price": 329
+},
+{
+  "_id": {
+    "$oid": "67ef7face0688ee95ade04f3"
+  },
+  "name": "AirPods Pro",
+  "category": "Headphones",
+  "price": 249
+},
+{
+  "_id": {
+    "$oid": "67ef7face0688ee95ade04f4"
+  },
+  "name": "Samsung Galaxy Tab S8",
+  "category": "Tablet",
+  "price": 599
+},
+{
+  "_id": {
+    "$oid": "67ef7face0688ee95ade04f5"
+  },
+  "name": "iPad Air",
+  "category": "Tablet",
+  "price": 699
+},
+{
+  "_id": {
+    "$oid": "67ef7face0688ee95ade04f6"
+  },
+  "name": "Lenovo Tab P12 Pro",
+  "category": "Tablet",
+  "price": 649
+}]

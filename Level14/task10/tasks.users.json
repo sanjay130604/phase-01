@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "605c72f59e3b1b78f2f95b0b"
+  },
+  "name": "Alice Johnson",
+  "email": "alice@example.com"
+},
+{
+  "_id": {
+    "$oid": "605c72f59e3b1b78f2f95b0c"
+  },
+  "name": "Bob Smith",
+  "email": "bob@example.com"
+},
+{
+  "_id": {
+    "$oid": "605c72f59e3b1b78f2f95b0d"
+  },
+  "name": "Charlie Davis",
+  "email": "charlie@example.com"
+}]

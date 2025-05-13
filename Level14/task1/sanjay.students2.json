@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "67ef7b94b246d13d93479ec8"
+  },
+  "firstName": "Sanjay",
+  "lastName": "Johnson",
+  "age": 17,
+  "grade": "A"
+},
+{
+  "_id": {
+    "$oid": "67ef7b94b246d13d93479ec9"
+  },
+  "firstName": "Vimal",
+  "lastName": "Smith",
+  "age": 15,
+  "grade": "B"
+},
+{
+  "_id": {
+    "$oid": "67ef7b94b246d13d93479eca"
+  },
+  "firstName": "Akash",
+  "lastName": "Brown",
+  "age": 18,
+  "grade": "A"
+},
+{
+  "_id": {
+    "$oid": "67ef7b94b246d13d93479ecb"
+  },
+  "firstName": "varshini",
+  "lastName": "White",
+  "age": 16,
+  "grade": "C"
+},
+{
+  "_id": {
+    "$oid": "67ef7b94b246d13d93479ecc"
+  },
+  "firstName": "vasha",
+  "lastName": "Davis",
+  "age": 17,
+  "grade": "B"
+},
+{
+  "_id": {
+    "$oid": "67ef7b94b246d13d93479ecd"
+  },
+  "firstName": "kaviya",
+  "lastName": "Wilson",
+  "age": 15,
+  "grade": "C"
+},
+{
+  "_id": {
+    "$oid": "67ef7b94b246d13d93479ece"
+  },
+  "firstName": "pradeep",
+  "lastName": "Hall",
+  "age": 18,
+  "grade": "A"
+},
+{
+  "_id": {
+    "$oid": "67ef7b94b246d13d93479ecf"
+  },
+  "firstName": "nirajain",
+  "lastName": "Moore",
+  "age": 16,
+  "grade": "B"
+},
+{
+  "_id": {
+    "$oid": "67ef7b94b246d13d93479ed0"
+  },
+  "firstName": "balaji",
+  "lastName": "Taylor",
+  "age": 17,
+  "grade": "A"
+},
+{
+  "_id": {
+    "$oid": "67ef7b94b246d13d93479ed1"
+  },
+  "firstName": "gowtham",
+  "lastName": "Anderson",
+  "age": 18,
+  "grade": "C"
+}]

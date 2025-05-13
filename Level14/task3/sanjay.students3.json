@@ -1,0 +1,158 @@
+[{
+  "_id": {
+    "$oid": "67ef8221674a0cf43fa72e62"
+  },
+  "name": "sanjay",
+  "age": 17,
+  "subjects": [
+    "Math",
+    "Physics",
+    "Chemistry",
+    "Biology",
+    "English"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ef8221674a0cf43fa72e63"
+  },
+  "name": "prithika",
+  "age": 16,
+  "subjects": [
+    "Math",
+    "Physics",
+    "Computer Science"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ef8221674a0cf43fa72e64"
+  },
+  "name": "Saran",
+  "age": 18,
+  "subjects": [
+    "Biology",
+    "Chemistry",
+    "English"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ef8221674a0cf43fa72e65"
+  },
+  "name": "vijay",
+  "age": 17,
+  "subjects": [
+    "Math",
+    "Physics",
+    "Chemistry",
+    "Biology",
+    "Computer Science",
+    "English"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ef8221674a0cf43fa72e66"
+  },
+  "name": "dhoni",
+  "age": 15,
+  "subjects": [
+    "Math",
+    "English",
+    "History",
+    "Geography"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ef8221674a0cf43fa72e67"
+  },
+  "name": "yuvan",
+  "age": 16,
+  "subjects": [
+    "Physics",
+    "Chemistry",
+    "Biology",
+    "English"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ef8543ce5a29735e93ea59"
+  },
+  "name": "sanjay",
+  "age": 17,
+  "subjects": [
+    "Math",
+    "Physics",
+    "Chemistry",
+    "Biology",
+    "English"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ef8543ce5a29735e93ea5a"
+  },
+  "name": "prithika",
+  "age": 16,
+  "subjects": [
+    "Math",
+    "Physics",
+    "Computer Science"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ef8543ce5a29735e93ea5b"
+  },
+  "name": "Saran",
+  "age": 18,
+  "subjects": [
+    "Biology",
+    "Chemistry",
+    "English"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ef8543ce5a29735e93ea5c"
+  },
+  "name": "vijay",
+  "age": 17,
+  "subjects": [
+    "Math",
+    "Physics",
+    "Chemistry",
+    "Biology",
+    "Computer Science",
+    "English"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ef8543ce5a29735e93ea5d"
+  },
+  "name": "dhoni",
+  "age": 15,
+  "subjects": [
+    "Math",
+    "English",
+    "History",
+    "Geography"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ef8543ce5a29735e93ea5e"
+  },
+  "name": "yuvan",
+  "age": 16,
+  "subjects": [
+    "Physics",
+    "Chemistry",
+    "Biology",
+    "English"
+  ]
+}]

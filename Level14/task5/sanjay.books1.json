@@ -1,0 +1,18 @@
+[{
+  "_id": 1,
+  "title": "Book A",
+  "author_id": 101,
+  "genre": "Fiction"
+},
+{
+  "_id": 2,
+  "title": "Book B",
+  "author_id": 102,
+  "genre": "Sci-Fi"
+},
+{
+  "_id": 3,
+  "title": "Book C",
+  "author_id": 101,
+  "genre": "Mystery"
+}]

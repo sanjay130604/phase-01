@@ -1,0 +1,44 @@
+[{
+  "_id": 1,
+  "product": "Laptop",
+  "category": "Electronics",
+  "quantity": 2,
+  "price": 800,
+  "discount": 50,
+  "date": {
+    "$date": "2024-04-01T10:00:00.000Z"
+  }
+},
+{
+  "_id": 2,
+  "product": "Phone",
+  "category": "Electronics",
+  "quantity": 3,
+  "price": 500,
+  "discount": 30,
+  "date": {
+    "$date": "2024-04-02T11:00:00.000Z"
+  }
+},
+{
+  "_id": 3,
+  "product": "Shirt",
+  "category": "Clothing",
+  "quantity": 5,
+  "price": 40,
+  "discount": 5,
+  "date": {
+    "$date": "2024-04-03T12:00:00.000Z"
+  }
+},
+{
+  "_id": 4,
+  "product": "Shoes",
+  "category": "Clothing",
+  "quantity": 2,
+  "price": 100,
+  "discount": 10,
+  "date": {
+    "$date": "2024-04-04T13:00:00.000Z"
+  }
+}]
