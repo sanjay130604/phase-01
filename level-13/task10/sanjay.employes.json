@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "67ef6724ae1f4e8f73384beb"
+  },
+  "employee_id": "EMP-1001",
+  "name": "jave kumar",
+  "department": "IT",
+  "hire_date": {
+    "$date": "2023-04-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ef6794ae1f4e8f73384bee"
+  },
+  "employee_id": "1001",
+  "name": "john wick",
+  "department": "HR",
+  "hire_date": {
+    "$date": "2023-02-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ef67b6ae1f4e8f73384bef"
+  },
+  "employee_id": "EMP-2002",
+  "name": "jack sparrow",
+  "department": "Engineering",
+  "hire_date": {
+    "$date": "2023-06-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ef67ceae1f4e8f73384bf0"
+  },
+  "employee_id": "EMP-3003",
+  "name": "alain",
+  "department": "Marketing"
+},
+{
+  "_id": {
+    "$oid": "67ef6805ae1f4e8f73384bf1"
+  },
+  "employee_id": "EMP-4004",
+  "name": "randy orten",
+  "department": "Finance",
+  "hire_date": {
+    "$date": "2023-07-10T00:00:00.000Z"
+  },
+  "salary": 50000
+},
+{
+  "_id": {
+    "$oid": "67ef6826ae1f4e8f73384bf2"
+  },
+  "employee_id": "EMP-5005",
+  "name": "fille",
+  "hire_date": {
+    "$date": "2023-08-05T00:00:00.000Z"
+  }
+}]

@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "67ef6077692b5c4c24d18187"
+  },
+  "name": "Alice",
+  "subjects": [
+    "Math",
+    "Science",
+    "English"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ef6077692b5c4c24d18188"
+  },
+  "name": "Bob",
+  "subjects": [
+    "History",
+    "Geography",
+    "Science"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ef6077692b5c4c24d18189"
+  },
+  "name": "Charlie",
+  "subjects": [
+    "Math",
+    "Physics",
+    "Chemistry"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ef6077692b5c4c24d1818a"
+  },
+  "name": "David",
+  "subjects": [
+    "Biology",
+    "Math",
+    "Computer Science"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ef6077692b5c4c24d1818b"
+  },
+  "name": "Eva",
+  "subjects": [
+    "English",
+    "Arts",
+    "History"
+  ]
+}]

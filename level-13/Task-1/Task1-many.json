@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "67ee8bcc8c3abcc697eafdc0"
+  },
+  "name": "niranjan",
+  "id": 32,
+  "grade": "A"
+},
+{
+  "_id": {
+    "$oid": "67ee8bcc8c3abcc697eafdc1"
+  },
+  "name": "vijay",
+  "id": 12,
+  "grade": "B"
+},
+{
+  "_id": {
+    "$oid": "67ee8bcc8c3abcc697eafdc2"
+  },
+  "name": "aijth",
+  "id": 17,
+  "grade": "C"
+},
+{
+  "_id": {
+    "$oid": "67ee8bcc8c3abcc697eafdc3"
+  },
+  "name": "sk",
+  "id": 16,
+  "grade": "A"
+},
+{
+  "_id": {
+    "$oid": "67ee8bcc8c3abcc697eafdc4"
+  },
+  "name": "surya",
+  "id": 22,
+  "grade": "B"
+}]

@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "67eeb5ea283f715828707e54"
+  },
+  "name": "sanjay",
+  "age": 20,
+  "grade": 86
+},
+{
+  "_id": {
+    "$oid": "67eeb5ea283f715828707e55"
+  },
+  "name": "akash",
+  "age": 16,
+  "grade": 69
+},
+{
+  "_id": {
+    "$oid": "67eeb5ea283f715828707e56"
+  },
+  "name": "varshini",
+  "age": 16,
+  "grade": 89
+},
+{
+  "_id": {
+    "$oid": "67eeb7ba283f715828707e57"
+  },
+  "name": "sanjay",
+  "age": 20,
+  "grade": 86
+},
+{
+  "_id": {
+    "$oid": "67eeb7ba283f715828707e58"
+  },
+  "name": "akash",
+  "age": 16,
+  "grade": 69
+},
+{
+  "_id": {
+    "$oid": "67eeb7ba283f715828707e59"
+  },
+  "name": "varshini",
+  "age": 16,
+  "grade": 89
+},
+{
+  "_id": {
+    "$oid": "67eeb7e60c4376241f77397e"
+  },
+  "name": "sanjay",
+  "age": 20,
+  "grade": 86
+},
+{
+  "_id": {
+    "$oid": "67eeb7e60c4376241f77397f"
+  },
+  "name": "akash",
+  "age": 16,
+  "grade": 69
+},
+{
+  "_id": {
+    "$oid": "67eeb7e60c4376241f773980"
+  },
+  "name": "varshini",
+  "age": 16,
+  "grade": 89
+}]

@@ -1,0 +1,259 @@
+[{
+  "_id": {
+    "$oid": "67eec15f468a9ba4183532bd"
+  },
+  "title": "The Hobbit",
+  "published_date": {
+    "$date": {
+      "$numberLong": "-1018656000000"
+    }
+  },
+  "ISBN": "978-0547928227",
+  "page_count": 310,
+  "genres": [
+    "Fantasy",
+    "Adventure"
+  ],
+  "publisher": {
+    "name": "George Allen & Unwin",
+    "country": "UK"
+  },
+  "author_ids": []
+},
+{
+  "_id": {
+    "$oid": "67eec15f468a9ba4183532be"
+  },
+  "title": "The Fellowship of the Ring",
+  "published_date": {
+    "$date": {
+      "$numberLong": "-486864000000"
+    }
+  },
+  "ISBN": "978-0618645619",
+  "page_count": 423,
+  "genres": [
+    "Fantasy"
+  ],
+  "publisher": {
+    "name": "George Allen & Unwin",
+    "country": "UK"
+  },
+  "author_ids": []
+},
+{
+  "_id": {
+    "$oid": "67eec15f468a9ba4183532bf"
+  },
+  "title": "1984",
+  "published_date": {
+    "$date": {
+      "$numberLong": "-649036800000"
+    }
+  },
+  "ISBN": "978-0451524935",
+  "page_count": 328,
+  "genres": [
+    "Dystopian",
+    "Political Fiction"
+  ],
+  "publisher": {
+    "name": "Secker & Warburg",
+    "country": "UK"
+  },
+  "author_ids": []
+},
+{
+  "_id": {
+    "$oid": "67eec15f468a9ba4183532c0"
+  },
+  "title": "Animal Farm",
+  "published_date": {
+    "$date": {
+      "$numberLong": "-769219200000"
+    }
+  },
+  "ISBN": "978-0451526342",
+  "page_count": 112,
+  "genres": [
+    "Political Satire"
+  ],
+  "publisher": {
+    "name": "Secker & Warburg",
+    "country": "UK"
+  },
+  "author_ids": []
+},
+{
+  "_id": {
+    "$oid": "67eec15f468a9ba4183532c1"
+  },
+  "title": "To Kill a Mockingbird",
+  "published_date": {
+    "$date": {
+      "$numberLong": "-299030400000"
+    }
+  },
+  "ISBN": "978-0061120084",
+  "page_count": 281,
+  "genres": [
+    "Fiction"
+  ],
+  "publisher": {
+    "name": "J.B. Lippincott & Co.",
+    "country": "USA"
+  },
+  "author_ids": []
+},
+{
+  "_id": {
+    "$oid": "67eec15f468a9ba4183532c2"
+  },
+  "title": "Pride and Prejudice",
+  "published_date": {
+    "$date": {
+      "$numberLong": "-4952102400000"
+    }
+  },
+  "ISBN": "978-1503290563",
+  "page_count": 279,
+  "genres": [
+    "Romance"
+  ],
+  "publisher": {
+    "name": "T. Egerton",
+    "country": "UK"
+  },
+  "author_ids": []
+},
+{
+  "_id": {
+    "$oid": "67eec15f468a9ba4183532c3"
+  },
+  "title": "Moby-Dick",
+  "published_date": {
+    "$date": {
+      "$numberLong": "-3730233600000"
+    }
+  },
+  "ISBN": "978-1503280786",
+  "page_count": 635,
+  "genres": [
+    "Adventure",
+    "Classic"
+  ],
+  "publisher": {
+    "name": "Harper & Brothers",
+    "country": "USA"
+  },
+  "author_ids": []
+},
+{
+  "_id": {
+    "$oid": "67eec15f468a9ba4183532c4"
+  },
+  "title": "War and Peace",
+  "published_date": {
+    "$date": {
+      "$numberLong": "-3187209600000"
+    }
+  },
+  "ISBN": "978-1400079988",
+  "page_count": 1225,
+  "genres": [
+    "Historical Fiction"
+  ],
+  "publisher": {
+    "name": "The Russian Messenger",
+    "country": "Russia"
+  },
+  "author_ids": []
+},
+{
+  "_id": {
+    "$oid": "67eec15f468a9ba4183532c5"
+  },
+  "title": "The Great Gatsby",
+  "published_date": {
+    "$date": {
+      "$numberLong": "-1411516800000"
+    }
+  },
+  "ISBN": "978-0743273565",
+  "page_count": 180,
+  "genres": [
+    "Classic",
+    "Tragedy"
+  ],
+  "publisher": {
+    "name": "Charles Scribner's Sons",
+    "country": "USA"
+  },
+  "author_ids": []
+},
+{
+  "_id": {
+    "$oid": "67eec15f468a9ba4183532c6"
+  },
+  "title": "Crime and Punishment",
+  "published_date": {
+    "$date": {
+      "$numberLong": "-3281904000000"
+    }
+  },
+  "ISBN": "978-0486415871",
+  "page_count": 671,
+  "genres": [
+    "Psychological Fiction"
+  ],
+  "publisher": {
+    "name": "The Russian Messenger",
+    "country": "Russia"
+  },
+  "author_ids": []
+},
+{
+  "_id": {
+    "$oid": "67ef600e2926dfbc7f8fb0ec"
+  },
+  "title": "MongoDB Basics",
+  "published_date": {
+    "$date": "2019-05-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ef600e2926dfbc7f8fb0ed"
+  },
+  "title": "Advanced MongoDB",
+  "published_date": {
+    "$date": "2021-06-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ef600e2926dfbc7f8fb0ee"
+  },
+  "title": "NoSQL Explained",
+  "published_date": {
+    "$date": "2020-09-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ef600e2926dfbc7f8fb0ef"
+  },
+  "title": "Database Design",
+  "published_date": {
+    "$date": "2022-01-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ef600e2926dfbc7f8fb0f0"
+  },
+  "title": "Big Data Analytics",
+  "published_date": {
+    "$date": "2018-11-25T00:00:00.000Z"
+  }
+}]
