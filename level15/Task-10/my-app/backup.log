@@ -1,0 +1,7 @@
+[2025-04-06T13:28:34.176Z] Backup directory D:\LEVELS\Level 15\Task-10\my-app\backups does not exist. Creating it now.
+[2025-04-06T13:28:34.191Z] Backup successful from D:\LEVELS\Level 15\Task-10\my-app\source to D:\LEVELS\Level 15\Task-10\my-app\backups\backup_2025-04-06T13-28-34.190Z
+[2025-04-06T13:28:34.220Z] Cleaned up backups, keeping the latest 3
+[2025-04-06T13:28:34.226Z] Backup compressed into D:\LEVELS\Level 15\Task-10\my-app\backups\backup_2025-04-06T13-28-34.190Z.zip
+[2025-05-17T10:59:38.562Z] Backup successful from D:\level15\Task-10\my-app\source to D:\level15\Task-10\my-app\backups\backup_2025-05-17T10-59-38.560Z
+[2025-05-17T10:59:38.594Z] Cleaned up backups, keeping the latest 3
+[2025-05-17T10:59:38.600Z] Backup compressed into D:\level15\Task-10\my-app\backups\backup_2025-05-17T10-59-38.560Z.zip

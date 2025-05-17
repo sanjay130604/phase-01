@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "682604c8cadbeef91137a4fd"
+  },
+  "city": "kumbakonam",
+  "temperature": 30,
+  "description": "Cloudy",
+  "timestamp": {
+    "$date": "2025-05-15T15:14:16.457Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6826054acadbeef91137a4ff"
+  },
+  "city": "coimbatore",
+  "temperature": 32,
+  "description": "Cloudy",
+  "timestamp": {
+    "$date": "2025-05-15T15:16:26.845Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6826057fcadbeef91137a501"
+  },
+  "city": "chennai",
+  "temperature": 32,
+  "description": "Cloudy",
+  "timestamp": {
+    "$date": "2025-05-15T15:17:19.777Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6826058bcadbeef91137a503"
+  },
+  "city": "kerala",
+  "temperature": 32,
+  "description": "Cloudy",
+  "timestamp": {
+    "$date": "2025-05-15T15:17:31.379Z"
+  },
+  "__v": 0
+}]
